@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+This has been published to a webpage with the same name as the repository automatically. Go to [https://cwallis92.github.io](https://cwallis92.github.io) to see it!
+
 You can use the [editor on GitHub](https://github.com/CWallis92/cwallis92.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
